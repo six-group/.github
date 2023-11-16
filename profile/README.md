@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are working on Open Source projects at SIX Group AG.
+We are working on Open Source projects at [SIX Group AG](https://www.six-group.com).
 
 
 # SIX Group

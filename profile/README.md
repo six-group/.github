@@ -58,3 +58,5 @@ SIX provides and operates stable, efficient infrastructure for financial markets
 | **Employees** | ~4,500 people across 19 countries |
 | **Business Units** | Exchanges · Securities Services · Financial Information · Banking Services |
 | **Ownership** | ~120 financial institutions |
+
+**[Find out more about SIX](https://www.six-group.com/en/company.html)**
